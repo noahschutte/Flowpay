@@ -1,0 +1,19 @@
+{
+   "imports_hardware": {
+      "platforms": ["240x320C15T","480x272C13T","800x480C13T","240x320C21N","320x480C15T","320x240C15N","320x240C24N","854x480C15T","854x480C0T"]
+  },
+   "imports_sdk": {
+       "triggers_min_version": "4.3.0",
+       "cpruntime_min_version": "2.0.0"
+     },
+   "application": {
+       "name": "90e5a3bc0",
+       "id": "90e5a3bc0-090261777",
+       "version": "1.0.0",
+       "type": "CP_TERMINAL",
+       "is_companion_app": false
+     },
+   "imports_trigger": [
+      ],
+   "schema_version": "1.0"
+ }

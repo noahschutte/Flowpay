@@ -1,0 +1,7 @@
+{
+  "cp_priority": 1,
+  "cp_inactivityTimeoutPeriod": 3,
+  "cp_applicationSilencePeriods": [
+    "5 8 * * Sun"
+  ]
+}
